@@ -1,17 +1,18 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Análisis y evaluación de negocio',
+    Description:
+      'El componente formativo aborda el estudio del mercado, el entorno y las variables que influyen en la generación y validación de ideas de negocio. Analiza elementos como el comportamiento del mercado, la segmentación, el entorno económico y las dinámicas de oferta y demanda, con el propósito de identificar oportunidades y evaluar la viabilidad de propuestas comerciales orientadas a la toma de decisiones.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
       },
     ],
   },
