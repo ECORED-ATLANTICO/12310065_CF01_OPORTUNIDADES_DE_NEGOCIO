@@ -8,10 +8,18 @@
           i.fas.fa-info
       h1 Introducción
     
-    figure.mb-5
-      .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+    .row.mb-5.justify-content-center.align-items-center
+      .col-lg-4.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/1.png", data-aos="zoom-in")
+      .col-lg-8
+        p(data-aos="fade-right") El componente formativo Análisis y evaluación de negocio aborda el estudio del mercado y del entorno como elementos fundamentales para la generación y validación de ideas de negocio. En este contexto, el análisis del mercado permite comprender el comportamiento de los consumidores, las características de la oferta y la demanda, así como las condiciones del entorno económico, social y competitivo que influyen en el desarrollo de oportunidades comerciales.
+        p A través del desarrollo de este componente se analizan conceptos relacionados con los mercados, la segmentación, el entorno y la dinámica del mercado, los cuales permiten identificar necesidades, tendencias y oportunidades en contextos reales. Asimismo, se abordan herramientas de análisis estratégico como la matriz DOFA, que facilitan la evaluación de factores internos y externos que inciden en la viabilidad de una idea de negocio.
+    
+    .cajon.color-acento-contenido.bg-color-1.p-4
+      p.mb-0 De igual manera, el componente integra el uso de fuentes de información, técnicas de recolección de datos y herramientas tecnológicas para el procesamiento de la información, permitiendo fortalecer la toma de decisiones en el ámbito empresarial. A lo largo del desarrollo temático se abordarán conceptos, herramientas y aplicaciones prácticas que contribuirán al análisis y evaluación de ideas de negocio con criterios de viabilidad comercial, técnica y operativa.
+    
+    
 
 </template>
 
