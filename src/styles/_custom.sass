@@ -73,6 +73,16 @@ figcaption, table caption
     background-color: #E2E7F7
   &-7
     color: #EC5ACA !important
+  &-8
+    background-color: #FFF5D9
+  &-9
+    background-color: #FCEAF5
+  &-10
+    background-color: #FAD5ED
+  &-11
+    border-color: #FF00B8 !important
+  &-12
+    background-color: #DEEAFF
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -232,3 +242,22 @@ figcaption, table caption
     .crd_hover_txt--body
       p
         font-size: 0.85em
+
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #E2D5FB
+  border-radius: 20px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: 200px
+  width: 80px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-right: 80px

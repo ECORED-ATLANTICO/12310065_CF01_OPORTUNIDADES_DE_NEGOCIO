@@ -63,7 +63,7 @@
                   .tabla-a.color-primario.mb-5.tbl
                     table
                       caption Nota. Adaptada de Kotler, P., & Keller, K. L., (2016).
-                      thead
+                      thead.bg-color-11
                         tr.bg-color-10
                           th Tipo de elemento
                           th Definición
@@ -110,7 +110,7 @@
                   .tabla-a.color-primario.mb-5.tbl
                     table
                       caption Nota. Adaptado Porter, M. E., (2008).
-                      thead
+                      thead.bg-color-11
                         tr.bg-color-10
                           th Tipo de elemento
                           th Definición

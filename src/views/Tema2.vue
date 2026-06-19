@@ -28,7 +28,7 @@
           .cajon.color-primario.bg-color-2.p-4
             p.mb-0 Netflix segmenta usuarios según comportamiento de visualización para personalizar contenidos. Coca Cola desarrolla diferentes líneas de producto como Zero o Light dirigidas a segmentos específicos según preferencias de consumo. 
 
-      h4 Línea de productos de la marca Coca Cola
+      h3 Línea de productos de la marca Coca Cola
 
       .row.mb-5.justify-content-center.align-items-center
         .col-lg-4.mb-3.mb-lg-0
@@ -83,7 +83,7 @@
     
     p.mb-5 La segmentación de mercado se clasifica según las variables utilizadas para agrupar a los consumidores, lo que permite comprender sus características y diseñar estrategias diferenciadas.
 
-    h4 Clasificación de la segmentación de mercado
+    h3 Clasificación de la segmentación de mercado
 
     .bg-full-width.bg-fondo-1.px-5
       .row.mb-5.align-items-center.justify-content-center

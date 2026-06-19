@@ -119,10 +119,10 @@
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           span Beneficios del análisis de mercados en el entorno empresarial
-        .tabla-a.color-primario.mb-5.tbl
+        .tabla-a.color-acento-contenido.mb-5.tbl
           table
             caption Nota. Adaptada de Malhotra, (2008).
-            thead
+            thead.bg-color-11
               tr.bg-color-10
                 th Beneficio
                 th Descripción
