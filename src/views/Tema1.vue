@@ -21,10 +21,10 @@
         h2 1.1 Concepto
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3.mb-3.mb-lg-0.order-lg-2
+        .col-md-8.col-lg-3.mb-3.mb-lg-0.order-2
           figure
             img(src="@/assets/curso/tema1/2.png", data-aos="zoom-in")
-        .col-lg-9.order-lg-1
+        .col-lg-9.order-1.mb-3.mb-lg-0
           .row.justify-content-center.align-items-center.mb-3
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -35,7 +35,7 @@
           .bg-color-4.px-5.py-4
             p.mb-0 Comprender el mercado implica analizar sus actores, condiciones de competencia, niveles de demanda y características del entorno, lo cual permite a las organizaciones diseñar estrategias alineadas con la realidad del contexto
     
-    .cajon.color-acento-botones.p-4
+    .cajon.color-acento-botones.bg-color-13.p-4
       p.mb-0 La cadena Tiendas D1 ha desarrollado su modelo de negocio a partir del análisis del comportamiento del consumidor colombiano, enfocándose en precios bajos, eficiencia operativa y productos de alta rotación, lo que le ha permitido posicionarse en el mercado de consumo masivo.
     
     separador
@@ -115,7 +115,7 @@
         p.banner-text El análisis de mercados proporciona información relevante que reduce la incertidumbre en la toma de decisiones empresariales, permitiendo anticipar cambios del entorno y responder de manera estratégica a las necesidades del consumidor.
     
     .row.justify-content-center
-      .col-lg-8
+      .col-xl-8
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           span Beneficios del análisis de mercados en el entorno empresarial

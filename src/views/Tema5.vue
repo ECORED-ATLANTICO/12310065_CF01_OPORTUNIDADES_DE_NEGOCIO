@@ -34,10 +34,10 @@
       h2 5.2	Matriz DOFA
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
+      .col-md-8.col-lg-3.mb-3.mb-lg-0.order-2
         figure
           img(src="@/assets/curso/tema5/3.png", data-aos="zoom-in")
-      .col-lg-9.order-lg-1
+      .col-lg-9.order-1.mb-3.mb-lg-0
         .row.justify-content-center.align-items-center.mb-3
           .col-lg-5.mb-3.mb-lg-0
             figure
@@ -50,7 +50,7 @@
     
     .row.justify-content-center
       .col-lg-8
-        .cajon.color-acento-botones.p-4.mb-5
+        .cajon.color-acento-botones.bg-color-13.p-4.mb-5
           p.mb-0.text-center Su aplicación contribuye a una toma de decisiones más objetiva y alineada con la realidad del entorno.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -76,7 +76,7 @@
 
     .row.justify-content-center
       .col-lg-8
-        .cajon.color-acento-botones.p-4.mb-5
+        .cajon.color-acento-botones.bg-color-13.p-4.mb-5
           p.mb-0.text-center Esta composición permite organizar la información de manera clara y facilita la posterior formulación de estrategias.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -187,10 +187,10 @@
     
     .bg-full-width.bg-fondo-1.px-5
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3.mb-3.mb-lg-0.order-lg-2
+        .col-md-8.col-lg-3.mb-3.mb-lg-0.order-2
           figure
             img(src="@/assets/curso/tema5/14.png", data-aos="zoom-in")
-        .col-lg-9.order-lg-1
+        .col-lg-9.order-1.mb-3.mb-lg-0
           .row.justify-content-center.align-items-center.mb-3
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -203,30 +203,30 @@
             p.mb-0 Esta herramienta se basa en dos dimensiones fundamentales: los factores internos, representados por fortalezas y debilidades asociadas a recursos, capacidades y procesos; y los factores externos, expresados en oportunidades y amenazas derivadas del entorno, las cuales, aunque no son controlables, pueden ser gestionadas estratégicamente. 
       
 
-      .cajon.color-acento-botones.p-4.mb-5
+      .cajon.color-acento-botones.bg-color-13.p-4.mb-5
         p.mb-0 El siguiente ejemplo presenta la aplicación del análisis DOFA a una empresa ficticia de comercio electrónico, con el fin de identificar su situación estratégica y orientar la formulación de decisiones en el entorno digital:
     
-    .row.justify-content-center
-      .col-lg-10
-        .tarjeta.bg-color-12.p-4.mb-5
-          .row.justify-content-around.align-items-center
-            .col-auto.col-lg-2.position-relative
-              img.pst-2.d-none.d-lg-block(src="@/assets/curso/tema5/16.png")
-            .col-auto.col-lg-10
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h5 Empresa de comercio electrónico: ClickNova Digital S.A.S.
-                  p.mb-0 Utiliza la siguiente empresa como ejemplo para desarrollar un análisis DOFA e identificar los factores internos y externos que afectan su desempeño.
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Empresa_comercio_electrónico_ClickNova_Digital_S.A.S.pdf')" target="_blank")
-                    span Ir al enlace
-                    i.fas.fa-link
+      .row.justify-content-center
+        .col-lg-10
+          .tarjeta.bg-color-12.p-4.mb-5
+            .row.justify-content-around.align-items-center
+              .col-auto.col-lg-2.position-relative
+                img.pst-2.d-none.d-lg-block(src="@/assets/curso/tema5/16.png")
+              .col-auto.col-lg-10
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h5 Empresa de comercio electrónico: ClickNova Digital S.A.S.
+                    p.mb-0 Utiliza la siguiente empresa como ejemplo para desarrollar un análisis DOFA e identificar los factores internos y externos que afectan su desempeño.
+                  .col-sm-auto
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Empresa_comercio_electrónico_ClickNova_Digital_S.A.S.pdf')" target="_blank")
+                      span Ir al enlace
+                      i.fas.fa-link
     
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-5.mb-3.mb-lg-0.order-lg-2
+      .col-lg-5.mb-3.mb-lg-0.order-2
         figure
           img(src="@/assets/curso/tema5/18.png", data-aos="zoom-in")
-      .col-lg-7.order-lg-1
+      .col-lg-7.order-1.mb-3.mb-lg-0
         .row.bg-fondo-2.tarjeta.px-5.py-4.align-items-center.justify-content-center
           .col-md-6.col-lg-4.mb-3.mb-lg-0
             figure

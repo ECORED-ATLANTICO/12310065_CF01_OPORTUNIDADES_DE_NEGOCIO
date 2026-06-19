@@ -24,7 +24,7 @@
         .col-md-8.col-lg-3.col-xl-3.mb-3.mb-xl-0
           figure
             img(src="@/assets/curso/tema3/2.png", data-aos="zoom-in")
-        .col-lg-7.col-xl-5.mb-3.mb-lg-0
+        .col-lg-5.col-xl-5.mb-3.mb-lg-0
           .bg-color-5.p-4.px-lg-5.tarjeta 
             p El entorno empresarial se refiere al conjunto de factores internos y externos que influyen en las decisiones, estrategias y desempeño de una organización. Comprender este entorno es fundamental para anticiparse a los cambios del mercado, adaptarse a nuevas condiciones y mantener la competitividad. 
             .bloque-texto-b.color-secundario(data-aos="fade-up").mb-3
@@ -34,7 +34,7 @@
                 i.fas.fa-quote-right.bg-color-7
               .bloque-texto-d__autor 
                 .h5.mb-0 Kotler y Keller (2016). 
-        .col-md-8.col-lg-5.col-xl-4.mb-3.mb-xl-0
+        .col-md-8.col-lg-4.col-xl-4.mb-3.mb-xl-0
           figure
             img(src="@/assets/curso/tema3/3.png", data-aos="zoom-in")
     
@@ -51,9 +51,9 @@
           p.banner-text El entorno empresarial se divide en dos grandes grupos: las variables internas, que son controlables por la empresa, y las variables externas, que se encuentran fuera de su control directo, pero cuya influencia puede ser significativa en el éxito o fracaso del negocio.
 
       .row.mb-5.align-items-center.justify-content-center
-        .col-lg-10
+        .col-xl-10
           AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-6")
-            div(titulo="Variables internas del mercado: ").ms-5
+            div(titulo="Variables internas del mercado").ms-5
               p Son factores controlables por la empresa que afectan su desempeño en el mercado. Kotler (2016) enfatiza que gestionar estos elementos de manera eficiente puede generar ventajas competitivas sostenibles.
               .row.justify-content-center
                 .col-lg-12
@@ -100,7 +100,7 @@
                           td No se lanza un nuevo producto por falta de capital.
                           td Capital disponible para expansión y desarrollo.
                           td Inversión permite abrir una nueva sucursal en otra ciudad.
-            div(titulo="Variables externas del mercado: ").ms-5
+            div(titulo="Variables externas del mercado").ms-5
               p Son variables o factores que afectan la competitividad de las empresas y no pueden ser controlados directamente. Porter (2008) destaca que una correcta evaluación de estos factores permite formular estrategias más resilientes.
               .row.justify-content-center
                 .col-lg-12

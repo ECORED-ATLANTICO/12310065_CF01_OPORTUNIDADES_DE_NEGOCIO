@@ -95,7 +95,7 @@
     
     .row.justify-content-center
       .col-lg-9
-        .cajon.color-acento-botones.p-4.mb-5
+        .cajon.color-acento-botones.bg-color-13.p-4.mb-5
           p.mb-0.text-center Estas técnicas permiten recopilar datos relevantes que apoyan la toma de decisiones en el ámbito empresarial.
 
     separador
@@ -143,7 +143,7 @@
 
     .row.justify-content-center
       .col-lg-8
-        .cajon.color-acento-botones.p-4.mb-5
+        .cajon.color-acento-botones.bg-color-13.p-4.mb-5
           p.mb-0 El uso de estos aplicativos permite centralizar la información, mejorar la comunicación interna y fortalecer la gestión empresarial.
 
     separador
@@ -184,10 +184,10 @@
                     i.fa-brands.fa-youtube
     
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-5.mb-3.mb-lg-0.order-lg-2
+      .col-lg-5.mb-3.mb-lg-0.order-2
         figure
           img(src="@/assets/curso/tema6/13.png", data-aos="zoom-in")
-      .col-lg-7.order-lg-1
+      .col-lg-7.order-1.mb-3.mb-lg-0
         .row.bg-fondo-2.tarjeta.px-5.py-4.align-items-center.justify-content-center
           .col-md-6.col-lg-4.mb-3.mb-lg-0
             figure

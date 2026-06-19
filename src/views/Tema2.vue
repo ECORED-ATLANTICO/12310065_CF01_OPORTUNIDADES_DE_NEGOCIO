@@ -31,41 +31,41 @@
       h3 Línea de productos de la marca Coca Cola
 
       .row.mb-5.justify-content-center.align-items-center
-        .col-lg-4.mb-3.mb-lg-0
+        .col-md-8.col-lg-4.mb-3.mb-lg-0
           figure
             img(src="@/assets/curso/tema2/3.png", data-aos="zoom-in")
         .col-lg-8
           .row.justify-content-center.mb-3
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/4.png", data-aos="fade-up")
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/5.png", data-aos="fade-down")
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/6.png", data-aos="fade-up")
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/7.png", data-aos="fade-down")
           .row.justify-content-center.mb-3
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/8.png", data-aos="fade-up")
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/9.png", data-aos="fade-down")
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/10.png", data-aos="fade-up")
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/11.png", data-aos="fade-down")
           .row.justify-content-center.mb-3
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/12.png", data-aos="fade-up")
-            .col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/13.png", data-aos="fade-down")
     
@@ -122,7 +122,7 @@
         p.mb-0 Para que una segmentación sea efectiva debe cumplir con condiciones que permitan su aplicación en el entorno empresarial y garanticen resultados en la toma de decisiones. Entre las características están:
     
     .row.mb-5.justify-content-center.align-items-center
-      .col-md-8.col-lg-5.mb-3.mb-lg-0.order-lg-2
+      .col-lg-5.mb-3.mb-lg-0.order-lg-2
         figure
           img(src="@/assets/curso/tema2/17.png", data-aos="zoom-in")
       .col-lg-7.order-lg-1

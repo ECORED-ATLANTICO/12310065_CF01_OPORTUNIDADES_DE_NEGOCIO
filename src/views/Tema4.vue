@@ -21,10 +21,10 @@
         h2 4.1 Concepto
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3.mb-3.mb-lg-0.order-lg-2
+        .col-md-8.col-lg-3.mb-3.mb-lg-0.order-2
           figure
             img(src="@/assets/curso/tema4/2.png", data-aos="zoom-in")
-        .col-lg-9.order-lg-1
+        .col-lg-9.order-1.mb-3.mb-lg-0
           .row.justify-content-center.align-items-center.mb-3
             .col-lg-5.mb-3.mb-lg-0
               figure
@@ -35,7 +35,7 @@
           .bg-color-4.px-5.py-4
             p.mb-0 Permite comprender cómo evoluciona un sector o actividad económica a lo largo del tiempo, identificando tendencias, oportunidades y desafíos que pueden impactar el desempeño de las organizaciones. 
     
-    .cajon.color-acento-botones.p-4.mb-5
+    .cajon.color-acento-botones.bg-color-13.p-4.mb-5
       p.mb-0 Su análisis facilita la adaptación a las condiciones cambiantes del entorno y contribuye a la toma de decisiones estratégicas orientadas al crecimiento y la competitividad.
     
     .row.mb-5.justify-content-center.align-items-center
@@ -87,7 +87,7 @@
               h4.mb-3 Relación entre oferta y demanda
               p.mb-0 Si la demanda aumenta y la oferta es limitada: los precios tienden a subir. Si la oferta supera la demanda: los precios tienden a disminuir. El equilibrio de mercado se alcanza cuando oferta y demanda se igualan.
     
-      .cajon.color-acento-botones.p-4.mb-5
+      .cajon.color-acento-botones.bg-color-13.p-4.mb-5
         p.mb-0 El aumento en la demanda de productos tecnológicos durante el teletrabajo generó incrementos en precios y escasez temporal. Supermercados como Éxito ajustan su oferta según temporadas (navidad, regreso a clases) para responder a la demanda.
     
     separador
