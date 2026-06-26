@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> verificar la apropiación de conceptos y variables del mercado y el entorno para la evaluación de ideas de negocio.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,

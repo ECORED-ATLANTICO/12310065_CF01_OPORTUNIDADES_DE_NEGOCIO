@@ -72,7 +72,7 @@
           span Matriz DOFA
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/6.png", alt="La estructura del análisis DOFA se destacan cuatro cuadrantes: Fortalezas, Debilidades, Oportunidades y Amenazas. Cada sección incluye una breve descripción y tres ejemplos relacionados con negocios electrónicos, organizados alrededor de un círculo central que representa la integración de los cuatro componentes del análisis estratégico.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/6-1.png", alt="La estructura del análisis DOFA se destacan cuatro cuadrantes: Fortalezas, Debilidades, Oportunidades y Amenazas. Cada sección incluye una breve descripción y tres ejemplos relacionados con negocios electrónicos, organizados alrededor de un círculo central que representa la integración de los cuatro componentes del análisis estratégico.")
-        figcaption Nota. SENA, 2026.
+        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center
       .col-lg-8
@@ -135,14 +135,16 @@
           span Estrategias DOFA  
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/12.png", alt="Se detalla cuatro bloques, las estrategias DOFA: FO (crecimiento), DO (mejora interna), FA (protección frente a amenazas) y DA (reducción de riesgos). Cada bloque explica cómo la combinación de fortalezas, debilidades, oportunidades y amenazas permite formular acciones estratégicas para fortalecer la competitividad y sostenibilidad de una organización. ")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/12-1.png", alt="Se detalla cuatro bloques, las estrategias DOFA: FO (crecimiento), DO (mejora interna), FA (protección frente a amenazas) y DA (reducción de riesgos). Cada bloque explica cómo la combinación de fortalezas, debilidades, oportunidades y amenazas permite formular acciones estratégicas para fortalecer la competitividad y sostenibilidad de una organización. ")
-        figcaption Nota. SENA, 2026.
+        figcaption Nota. SENA, (2026).
     
     .bg-full-width.bg-fondo-1.px-5
       img(src="@/assets/curso/tema5/13.png", alt="Imagen decorativa")
       
       .row.justify-content-center.align-items-center.z-2.mb-5
         .col-lg-10(data-aos="fade-up")
-          p.banner-text La correcta formulación de estas estrategias permite que el negocio electrónico no solo responda al entorno, sino que se anticipe a los cambios del mercado digital y fortalezca su posición competitiva a largo plazo.
+          p.banner-text La correcta formulación de estas estrategias permite que el negocio electrónico no solo responda al entorno, sino que se anticipe a los cambios del mercado digital y fortalezca su posición competitiva a largo plazo. 
+      
+      p.mb-5 La tabla siguiente presenta ejemplos de estrategias DOFA aplicadas por empresas digitales para fortalecer su posición en el entorno digital.
 
       .row.justify-content-center
         .col-lg-8
@@ -233,10 +235,10 @@
               img(src="@/assets/curso/tema5/17.png", data-aos="zoom-in")
           .col-lg-8
             h2.text-white(data-aos="fade-left").mb-3 Ir al pódcast
-            p.text-white Charlas que venden
+            p.text-white Charlas que venden:
             
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-              texto="El poder del análisis estratégico"
+              texto="La gestión de la información para tomar decisiones"
               tiempo
               :audio="require('../assets/curso/podcast/podcast1.mp3')"
             )

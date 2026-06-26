@@ -33,7 +33,7 @@
               .bg-color-3.px-5.py-4
                 p.mb-0 El mercado es el sistema de interacción donde confluyen compradores y vendedores para el intercambio de bienes o servicios, determinado por variables económicas, sociales, tecnológicas y culturales. Desde el enfoque empresarial, el mercado no se limita a un espacio físico o digital, sino que representa un entorno de análisis que permite identificar necesidades, comportamientos de consumo y oportunidades de negocio. 
           .bg-color-4.px-5.py-4
-            p.mb-0 Comprender el mercado implica analizar sus actores, condiciones de competencia, niveles de demanda y características del entorno, lo cual permite a las organizaciones diseñar estrategias alineadas con la realidad del contexto
+            p.mb-0 Comprender el mercado implica analizar sus actores, condiciones de competencia, niveles de demanda y características del entorno, lo cual permite a las organizaciones diseñar estrategias alineadas con la realidad del contexto.
     
     .cajon.color-acento-botones.bg-color-13.p-4
       p.mb-0 La cadena Tiendas D1 ha desarrollado su modelo de negocio a partir del análisis del comportamiento del consumidor colombiano, enfocándose en precios bajos, eficiencia operativa y productos de alta rotación, lo que le ha permitido posicionarse en el mercado de consumo masivo.
@@ -48,7 +48,12 @@
         figure
           img(src="@/assets/curso/tema1/4.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-0(data-aos="fade-right") La clasificación de los mercados permite segmentar su estructura y comprender sus características, facilitando la identificación de oportunidades y la definición de estrategias comerciales diferenciadas según el tipo de cliente, producto y alcance geográfico. Clasificación de los mercados según su naturaleza y alcance
+        p.mb-0(data-aos="fade-right") La clasificación de los mercados permite segmentar su estructura y comprender sus características, facilitando la identificación de oportunidades y la definición de estrategias comerciales diferenciadas según el tipo de cliente, producto y alcance geográfico. 
+
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
+        h3.titulo-con-imagen__texto Clasificación de los mercados según su naturaleza y alcance
   
     .bg-fondo-slider.bg-full-width.mb-5
       .p-4.p-lg-5

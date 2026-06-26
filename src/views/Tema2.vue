@@ -28,7 +28,10 @@
           .cajon.color-primario.bg-color-2.p-4
             p.mb-0 Netflix segmenta usuarios según comportamiento de visualización para personalizar contenidos. Coca Cola desarrolla diferentes líneas de producto como Zero o Light dirigidas a segmentos específicos según preferencias de consumo. 
 
-      h3 Línea de productos de la marca Coca Cola
+      .titulo-con-imagen.mb-5(data-aos="fade-right")
+        .titulo-con-imagen__fondo
+          img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
+          h3.titulo-con-imagen__texto Línea de productos de la marca Coca Cola
 
       .row.mb-5.justify-content-center.align-items-center
         .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -64,10 +67,13 @@
           .row.justify-content-center.mb-3
             .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
-                img(src="@/assets/curso/tema2/12.png", data-aos="fade-up")
+                img(src="@/assets/curso/tema2/21.png", data-aos="fade-up")
             .col-md-6.col-lg-3.mb-3.mb-lg-0
               figure
-                img(src="@/assets/curso/tema2/13.png", data-aos="fade-down")
+                img(src="@/assets/curso/tema2/12.png", data-aos="fade-down")
+            .col-md-6.col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src="@/assets/curso/tema2/13.png", data-aos="fade-up")
     
     .bg-fondo-3.mb-5.tarjeta.p-4
       .row.align-items-center
@@ -132,13 +138,13 @@
             p.mb-0 Permite cuantificar el tamaño, características, comportamiento y potencial de compra del segmento, facilitando la obtención de información relevante para la toma de decisiones estratégicas y la evaluación de oportunidades de mercado.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Accesible")
             h4 Accesible
-            p.mb-0 El segmento puede ser identificado y alcanzado de manera efectiva mediante estrategias comerciales, canales de comunicación, distribución y acciones de marketing que permitan establecer una relación directa con los clientes potenciales.
+            p.mb-0 El segmento puede ser identificado y alcanzado de manera efectiva mediante estrategias comerciales, canales de comunicación, distribución y acciones de <em>marketing</em> que permitan establecer una relación directa con los clientes potenciales.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Sustancial")
             h4 Sustancial
             p.mb-0 Posee un tamaño y una capacidad de compra suficientes para justificar la inversión de recursos, garantizando que el segmento sea rentable y contribuya al crecimiento sostenible de la organización.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Diferenciable")
             h4 Diferenciable
-            p.mb-0 Presenta necesidades, preferencias, comportamientos o características específicas que lo distinguen de otros segmentos, respondiendo de manera diferente a las propuestas de valor y estrategias de marketing implementadas.
+            p.mb-0 Presenta necesidades, preferencias, comportamientos o características específicas que lo distinguen de otros segmentos, respondiendo de manera diferente a las propuestas de valor y estrategias de <em>marketing</em> implementadas.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Accionable")
             h4 Accionable
             p.mb-0 Permite diseñar e implementar estrategias, programas y acciones concretas de <em>marketing</em>, ventas y servicio, adaptadas a sus características particulares, con el fin de generar resultados medibles y alcanzar los objetivos comerciales establecidos.
@@ -148,7 +154,7 @@
         figure
           img(src="@/assets/curso/tema2/18.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-0(data-aos="fade-right") Spotify segmenta a sus usuarios teniendo en cuenta la edad, gustos musicales, hábitos de escucha y tipo de suscripción (gratuita o premium). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar playlists adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción premium y el engagement de los usuarios.
+        p.mb-0(data-aos="fade-right") Spotify segmenta a sus usuarios teniendo en cuenta la edad, gustos musicales, hábitos de escucha y tipo de suscripción (gratuita o <em>premium</em>). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar <em>playlists</em> adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción <em>premium</em> y el <em>engagement</em> de los usuarios.
     
     separador
     

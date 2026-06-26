@@ -125,15 +125,15 @@
                   th Ejemplo
               tbody
                 tr.bg-color-white
-                  td.text-bold <em>CRM</em>
+                  td.text-bold CRM
                   td Permite gestionar la información de los clientes, mejorar la relación comercial, realizar seguimiento a ventas y fortalecer la fidelización.
                   td Salesforce
                 tr.bg-color-sintesis
-                  td.text-bold <em>ERP</em>
+                  td.text-bold ERP
                   td Integra y automatiza los procesos internos de la empresa como finanzas, inventarios, producción y recursos humanos en un solo sistema.
                   td SAP
                 tr.bg-color-white
-                  td.text-bold Software de análisis de datos
+                  td.text-bold <em>Software</em> de análisis de datos
                   td Facilita el procesamiento, análisis e interpretación de grandes volúmenes de datos mediante reportes, gráficos y paneles de control.
                   td Power BI, Excel
                 tr.bg-color-sintesis
@@ -165,7 +165,7 @@
           span Etapas del procesamiento de la información
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema6/10.png", alt="La figura presenta el ciclo de procesamiento de datos en cuatro etapas organizadas en un diagrama circular; que representan las fases del procesamiento de la información., las cuales son: Recolección, que consiste en obtener datos de fuentes internas y externas. Organización, enfocada en clasificar y estructurar la información. Análisis, donde los datos se interpretan mediante herramientas tecnológicas para identificar patrones y tendencias. Interpretación, que transforma los resultados en conclusiones para apoyar la toma de decisiones. También incluye un apartado sobre la utilidad del procesamiento de la información y menciona herramientas como formularios digitales, CRM, ERP, Power BI y Excel. Finalmente se destaca que los datos se convierten en información y posteriormente en conocimiento para tomar mejores decisiones. ")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema6/10-1.png", alt="La figura presenta el ciclo de procesamiento de datos en cuatro etapas organizadas en un diagrama circular; que representan las fases del procesamiento de la información., las cuales son: Recolección, que consiste en obtener datos de fuentes internas y externas. Organización, enfocada en clasificar y estructurar la información. Análisis, donde los datos se interpretan mediante herramientas tecnológicas para identificar patrones y tendencias. Interpretación, que transforma los resultados en conclusiones para apoyar la toma de decisiones. También incluye un apartado sobre la utilidad del procesamiento de la información y menciona herramientas como formularios digitales, CRM, ERP, Power BI y Excel. Finalmente se destaca que los datos se convierten en información y posteriormente en conocimiento para tomar mejores decisiones. ")
-        figcaption Nota. SENA, 2026.
+        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center
       .col-lg-10
@@ -194,10 +194,10 @@
               img(src="@/assets/curso/tema6/12.png", data-aos="zoom-in")
           .col-lg-8
             h2.text-white(data-aos="fade-left").mb-3 Ir al pódcast
-            p.text-white Charlas que venden
+            p.text-white Charlas que venden:
             
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-              texto="La gestión de la información para tomar decisiones"
+              texto="El poder del análisis estratégico"
               tiempo
               :audio="require('../assets/curso/podcast/podcast2.mp3')"
             )
