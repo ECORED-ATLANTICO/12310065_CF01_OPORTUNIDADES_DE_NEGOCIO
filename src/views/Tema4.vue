@@ -170,7 +170,7 @@
                   h5 Oferta y demanda. Explicado para principiantes
                   p.mb-0 Para fortalecer la comprensión del tema, se invita al siguiente recurso audiovisual, donde se explica cómo el comercio electrónico ha transformado la dinámica del mercado, modificando el comportamiento del consumidor y obligando a las empresas a adaptar su oferta a las nuevas tendencias digitales.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=SLFcO2P2R4g" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=PvViocJwYRI " target="_blank")
                     span Ir al video
                     i.fa-brands.fa-youtube
 
