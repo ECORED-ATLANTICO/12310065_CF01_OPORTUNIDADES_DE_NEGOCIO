@@ -134,19 +134,19 @@
                 th Aplicación empresarial
             tbody
               tr.bg-color-white
-                td.text-bold Identificación de oportunidades
+                td Identificación de oportunidades
                 td Detecta necesidades no satisfechas
                 td Desarrollo de nuevos productos
               tr.bg-color-sintesis
-                td.text-bold Reducción de riesgos
+                td Reducción de riesgos
                 td Minimiza incertidumbre
                 td Decisiones más acertadas
               tr.bg-color-white
-                td.text-bold Conocimiento del cliente
+                td Conocimiento del cliente
                 td Analiza preferencias
                 td Segmentación efectiva
               tr.bg-color-sintesis
-                td.text-bold Planeación estratégica
+                td Planeación estratégica
                 td Apoya decisiones empresariales
                 td Ventaja competitiva
     
@@ -162,7 +162,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5 ¿Qué es MERCADO? Seis claves para identificar oportunidades en un mercado.
-                  p.mb-0 Para fortalecer la comprensión del tema, se invita a ir al siguiente recurso audiovisual, donde se explica de manera aplicada el funcionamiento del mercado. Este material facilita la interpretación de los conceptos en contextos empresariales 
+                  p.mb-0 Para fortalecer la comprensión del tema, se invita a ir al siguiente recurso audiovisual, donde se explica de manera aplicada el funcionamiento del mercado. Este material facilita la interpretación de los conceptos en contextos empresariales. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=iEnwxNJL_uo " target="_blank")
                     span Ir al video

@@ -125,19 +125,19 @@
                   th Ejemplo
               tbody
                 tr.bg-color-white
-                  td.text-bold CRM
+                  td CRM
                   td Permite gestionar la información de los clientes, mejorar la relación comercial, realizar seguimiento a ventas y fortalecer la fidelización.
                   td Salesforce
                 tr.bg-color-sintesis
-                  td.text-bold ERP
+                  td ERP
                   td Integra y automatiza los procesos internos de la empresa como finanzas, inventarios, producción y recursos humanos en un solo sistema.
                   td SAP
                 tr.bg-color-white
-                  td.text-bold <em>Software</em> de análisis de datos
+                  td <em>Software</em> de análisis de datos
                   td Facilita el procesamiento, análisis e interpretación de grandes volúmenes de datos mediante reportes, gráficos y paneles de control.
                   td Power BI, Excel
                 tr.bg-color-sintesis
-                  td.text-bold Herramientas de encuestas
+                  td Herramientas de encuestas
                   td Permiten recolectar información del mercado y de los clientes mediante formularios digitales para apoyar la toma de decisiones.
                   td Google Forms
 

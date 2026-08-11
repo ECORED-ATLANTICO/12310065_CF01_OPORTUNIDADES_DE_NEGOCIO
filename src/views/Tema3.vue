@@ -73,28 +73,28 @@
                           th Ejemplo positivo
                       tbody
                         tr.bg-color-white
-                          td.text-bold Climes
+                          td Climes
                           td Personas y/o empresas que obtienen productos y/o servicios.
                           td Pérdida de clientes por insatisfacción.
                           td Un mal servicio postventa provoca que los clientes no recompren.
                           td Fidelización y crecimiento del mercado.
                           td Un programa de puntos hace que los clientes regresen con frecuencia.
                         tr.bg-color-sintesis
-                          td.text-bold Competencia
+                          td Competencia
                           td Entidades que brindan productos y/o servicios similares.
                           td Reducción de cuota de mercado.
                           td Un competidor lanza un producto más barato y gana clientes.
                           td Innovación y mejora de estrategias comerciales.
                           td Se lanza una versión mejorada que responde mejor a las necesidades del público.
                         tr.bg-color-white
-                          td.text-bold Precio
+                          td Precio
                           td Valor monetario fijado a un producto y/o servicio.
                           td Precios inadecuados pueden afectar la demanda.
                           td Un precio muy alto aleja a los consumidores.
                           td Estrategias de precios competitivos pueden atraer clientes.
                           td Una promoción de precio por volumen genera más ventas.
                         tr.bg-color-sintesis
-                          td.text-bold Inversores
+                          td Inversores
                           td Personas y/o entes que invierten en la empresa.
                           td Falta de inversión puede limitar el crecimiento.
                           td No se lanza un nuevo producto por falta de capital.
@@ -120,42 +120,42 @@
                           th Ejemplo positivo
                       tbody
                         tr.bg-color-white
-                          td.text-bold Jurídico
+                          td Jurídico
                           td Normas y regulaciones que rigen el mercado.
                           td Regulaciones estrictas pueden limitar operaciones.
                           td Una ley ambiental restringe el uso de ciertos materiales en producción.
                           td Protección al consumidor y seguridad jurídica.
                           td Legislación clara aumenta la confianza del consumidor en los productos nacionales.
                         tr.bg-color-sintesis
-                          td.text-bold Internacional
+                          td Internacional
                           td Factores derivados del comercio global.
                           td Mayor competencia en mercados locales.
                           td Ingreso de marcas extranjeras reduce ventas locales.
                           td Expansión comercial y acceso a nuevos mercados.
                           td Un tratado de libre comercio permite exportar sin aranceles.
                         tr.bg-color-white
-                          td.text-bold Tecnológico
+                          td Tecnológico
                           td Avances e innovaciones que impactan el sector.
                           td Obsolescencia rápida de productos y procesos.
                           td Una empresa no se adapta a una nueva tecnología y pierde mercado.
                           td Innovación en productos y mejoras operativas.
                           td Implementación de inteligencia artificial mejora la atención al cliente.
                         tr.bg-color-sintesis
-                          td.text-bold Sociocultural
+                          td Sociocultural
                           td Cambios en las preferencias y valores de la sociedad.
                           td Dificultad para adaptarse a nuevas tendencias.
                           td Producto tradicional pierde relevancia entre jóvenes consumidores.
                           td Creación de productos alineados con la demanda.
                           td Lanzamiento de productos ecológicos para consumidores conscientes.
                         tr.bg-color-white
-                          td.text-bold Demográfico
+                          td Demográfico
                           td Características de la población que afectan el consumo.
                           td Envejecimiento de la población puede reducir ciertos mercados.
                           td Menor demanda de productos digitales entre adultos mayores.
                           td Identificación de nuevos nichos de mercado.
                           td Aumento de jóvenes urbanos impulsa el consumo de tecnología portátil.
                         tr.bg-color-sintesis
-                          td.text-bold Político
+                          td Político
                           td Estabilidad y decisiones gubernamentales.
                           td Conflictos y crisis pueden afectar la economía.
                           td Inestabilidad política reduce la inversión extranjera.

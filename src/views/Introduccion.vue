@@ -13,7 +13,7 @@
         figure
           img(src="@/assets/curso/1.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") El componente formativo Análisis y evaluación de negocio aborda el estudio del mercado y del entorno como elementos fundamentales para la generación y validación de ideas de negocio. En este contexto, el análisis del mercado permite comprender el comportamiento de los consumidores, las características de la oferta y la demanda, así como las condiciones del entorno económico, social y competitivo que influyen en el desarrollo de oportunidades comerciales.
+        p(data-aos="fade-right") El componente formativo <b>Análisis y evaluación de negocio</b> aborda el estudio del mercado y del entorno como elementos fundamentales para la generación y validación de ideas de negocio. En este contexto, el análisis del mercado permite comprender el comportamiento de los consumidores, las características de la oferta y la demanda, así como las condiciones del entorno económico, social y competitivo que influyen en el desarrollo de oportunidades comerciales.
         p A través del desarrollo de este componente se analizan conceptos relacionados con los mercados, la segmentación, el entorno y la dinámica del mercado, los cuales permiten identificar necesidades, tendencias y oportunidades en contextos reales. Asimismo, se abordan herramientas de análisis estratégico como la matriz DOFA, que facilitan la evaluación de factores internos y externos que inciden en la viabilidad de una idea de negocio.
     
     .cajon.color-acento-contenido.bg-color-1.p-4

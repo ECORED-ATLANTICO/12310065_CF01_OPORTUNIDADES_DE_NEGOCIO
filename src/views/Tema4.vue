@@ -66,7 +66,7 @@
               figure
                 img(src="@/assets/curso/tema4/6.png", alt="alt")
             .crd_hover_txt--body
-              h4.mb-3 Oferta
+              h4.mb-3.text-center Oferta
               p.mb-0 Es la cantidad de bienes o servicios que los productores están dispuestos a vender. Depende de factores como costos de producción, tecnología y competencia.
       
         .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -75,7 +75,7 @@
               figure
                 img(src="@/assets/curso/tema4/7.png", alt="alt")
             .crd_hover_txt--body
-              h4.mb-3 Demanda
+              h4.mb-3.text-center Demanda
               p.mb-0 Es la cantidad de bienes o servicios que los consumidores están dispuestos a adquirir. Está influenciada por ingresos, preferencias, precios y tendencias.
       
         .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -84,7 +84,7 @@
               figure
                 img(src="@/assets/curso/tema4/8.png", alt="alt")
             .crd_hover_txt--body
-              h4.mb-3 Relación entre oferta y demanda
+              h4.mb-3.text-center Relación entre oferta y demanda
               p.mb-0 Si la demanda aumenta y la oferta es limitada: los precios tienden a subir. Si la oferta supera la demanda: los precios tienden a disminuir. El equilibrio de mercado se alcanza cuando oferta y demanda se igualan.
     
       .cajon.color-acento-botones.bg-color-13.p-4.mb-5

@@ -31,7 +31,7 @@
     separador
     
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 5.2	Matriz DOFA
+      h2 5.2	La matriz DOFA
     
     .row.justify-content-center.align-items-center.mb-5
       .col-md-8.col-lg-3.mb-3.mb-lg-0.order-2
@@ -162,22 +162,22 @@
                   th Empresa
               tbody
                 tr.bg-color-white
-                  td.text-bold FO
+                  td FO
                   td Aprovechar fortalezas
                   td Expansión digital
                   td Amazon
                 tr.bg-color-sintesis
-                  td.text-bold DO
+                  td DO
                   td Superar debilidades
                   td Alianzas tecnológicas
                   td Uber
                 tr.bg-color-white
-                  td.text-bold FA
+                  td FA
                   td Enfrentar amenazas
                   td Innovación constante
                   td Netflix
                 tr.bg-color-sintesis
-                  td.text-bold DA
+                  td DA
                   td Reducir riesgos
                   td Diversificación
                   td Google
