@@ -146,7 +146,7 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 'Matriz DOFA',
+            titulo: 'La matriz DOFA',
             hash: 't_5_2',
           },
         ],
