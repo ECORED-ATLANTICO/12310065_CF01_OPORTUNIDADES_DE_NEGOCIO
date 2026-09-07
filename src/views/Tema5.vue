@@ -44,9 +44,9 @@
               img(src="@/assets/curso/tema5/4.png", data-aos="zoom-in")
           .col-lg-7
             .bg-color-3.px-5.py-4
-              p.mb-0 La matriz DOFA es una herramienta estratégica ampliamente utilizada para diagnosticar la situación interna y externa de una organización. En el contexto de los negocios electrónicos, esta matriz adquiere especial relevancia, ya que permite analizar de manera estructurada cómo las capacidades internas de la empresa interactúan con las condiciones cambiantes del entorno digital.  
+              p.mb-0 Es una herramienta estratégica ampliamente utilizada para diagnosticar la situación interna y externa de una organización. En el contexto de los negocios electrónicos, esta matriz adquiere especial relevancia, ya que permite analizar de manera estructurada cómo las capacidades internas de la empresa interactúan con las condiciones cambiantes del entorno digital. 
         .bg-color-4.px-5.py-4
-          p.mb-0 La matriz DOFA facilita una visión integral del negocio electrónico al identificar los factores que fortalecen o limitan su desempeño interno, así como las oportunidades y amenazas derivadas del mercado, la tecnología, la competencia y el comportamiento del consumidor digital. 
+          p.mb-0 Asimismo, facilita una visión integral del negocio electrónico al identificar los factores que fortalecen o limitan su desempeño interno, así como las oportunidades y amenazas derivadas del mercado, la tecnología, la competencia y el comportamiento del consumidor digital.   
     
     .row.justify-content-center
       .col-lg-8
